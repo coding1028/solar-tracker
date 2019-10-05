@@ -2,15 +2,15 @@
 
 ## <준비물> 
   
-컴퓨터,3D프린터로 만든 태양광, 요거>>![]https://www.facebook.com/photo.php?fbid=341206270093845&set=pcb.341206683427137&type=3&theater
+컴퓨터,3D프린터로 만든 태양광, 요거>> ![](https://www.facebook.com/photo.php?fbid=341206270093845&set=pcb.341206683427137&type=3&theater)
 
 
 ## <과정>
 
 1.아두이노에 들어간 다음, 태양광에 대한 코드를 씁니다.  
-![]https://www.facebook.com/photo.php?fbid=371859977028474&set=pcb.371860060361799&type=3&theater   <<<코드들임.
-![]https://www.facebook.com/photo.php?fbid=371860003695138&set=pcb.371860060361799&type=3&theater 
-![]https://www.facebook.com/photo.php?fbid=371860023695136&set=pcb.371860060361799&type=3&theater
+![](https://www.facebook.com/photo.php?fbid=371859977028474&set=pcb.371860060361799&type=3&theater)   <<<코드들임.
+![](https://www.facebook.com/photo.php?fbid=371860003695138&set=pcb.371860060361799&type=3&theater) 
+![](https://www.facebook.com/photo.php?fbid=371860023695136&set=pcb.371860060361799&type=3&theater)
 
 2.위에 나온 사진에 나온 태양광을 3D프린터로 뽑거나 아니면 코코아팹들어가서 구매를 하고 자신의 코드에 맞게 작성한뒤, 전선들을 알맞은 자리에
 꽃아주어 보드와 연결하시면 됩니다(저같은 경우에는 A0,A1,A2,A3으로 설정해서 그곳을 통해 보드를 연결했습니다.)
