@@ -7,9 +7,20 @@
 
 ## <과정>
 
-1.아두이노에 들어간 다음, 태양광에 대한 코드를 씁니다.  
-![]https://www.facebook.com/photo.php?fbid=371859977028474&set=pcb.371860060361799&type=3&theater    <<<코드들임.
-![]https://www.facebook.com/photo.php?fbid=371860003695138&set=pcb.371860060361799&type=3&theater 
+아두이노에 들어간 다음, 태양광에 대한 코드를 씁니다.  
+1.![]https://www.facebook.com/photo.php?fbid=371859977028474&set=pcb.371860060361799&type=3&theater    <<<코드들임.
+1-1. 빛의 평균값을 재기 위해 몇가지 코드들을 int를 통해 선언해줍니다.
+1-2. 수직(horizon)과 수평(vertical)을 퍙균값을 구한 다음 그 값대로 움직일 수 있도록 servo를 통해 선언해줍니다.
+1-3. 수직,수평의 기본 각도를 각각 90도로 정해줍니다
+1-4. setup에다가 평균값을 재기위해 pinmode를 마음대로 4개 설정해주고 마찬가지로 수직과 수평도 자기가 원하는데에다 넣어주면 됩니다
+
+2.![]https://www.facebook.com/photo.php?fbid=371860003695138&set=pcb.371860060361799&type=3&theater 
+2-1.loop에다가 간단한 몇가지 센서들을 넣어줍니다(이 센서들은 코드들이 어지럽혀져보이지 않게 하는 기능을 가지고 있습니다, 하나의 대명사라고 할까요,
+
+
+
+
+
 ![]https://www.facebook.com/photo.php?fbid=371860023695136&set=pcb.371860060361799&type=3&theater
 
 2.위에 나온 사진에 나온 태양광을 3D프린터로 뽑거나 아니면 코코아팹들어가서 구매를 하고 자신의 코드에 맞게 작성한뒤, 전선들을 알맞은 자리에
